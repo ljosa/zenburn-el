@@ -673,7 +673,7 @@
      `(org-done ((t (:bold t :weight bold :foreground ,zenburn-green+3))))
      `(org-formula ((t (:foreground ,zenburn-yellow-2))))
      `(org-headline-done ((t (:foreground ,zenburn-green+3))))
-     `(org-hide ((t (:foreground ,zenburn-bg-1))))
+     `(org-hide ((t (:foreground ,zenburn-bg))))
      `(org-level-1 ((t (:foreground ,zenburn-orange))))
      `(org-level-2 ((t (:foreground ,zenburn-yellow))))
      `(org-level-3 ((t (:foreground ,zenburn-blue))))
